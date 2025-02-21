@@ -5,7 +5,7 @@ title: "About Me"
 
 ## Hi, I'm Dima Pursanov
 
-I'm a passionate .NET developer with a love for solving complex problems—especially when it comes to containerization and remote debugging. I enjoy sharing my journey and insights through my blog, and I'm always eager to connect with fellow developers.
+I'm a passionate .NET developer with a love for solving complex problems. I enjoy sharing my journey and insights through my blog, and I'm always eager to connect with fellow developers.
 
 ---
 
