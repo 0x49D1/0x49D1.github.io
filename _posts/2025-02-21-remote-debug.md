@@ -2,6 +2,7 @@
 layout: post
 title: "How to Enable Remote Debugging in a Docker Container for Rider and Visual Studio"
 date: 2025-02-21
+excerpt: "When containerizing your .NET application, you might still need to attach your IDE’s debugger to troubleshoot issues that occur only in the containerized environment. In this article, we show you how to add remote debugging capabilities to your Docker container so that both JetBrains Rider and Visual Studio can connect seamlessly. Keep in mind that such debugging sessions are rare, but sometimes very useful."
 author: "Dimitri Pursanov"
 tags: [csharp, remote, debugging, dotnet]
 ---
