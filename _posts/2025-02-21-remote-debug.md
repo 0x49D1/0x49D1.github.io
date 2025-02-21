@@ -194,7 +194,9 @@ This command does the following:
 ### From Visual Studio
 
 1. **Add SSH Connection in “Connection Manager” options part**.
+![options](/assets/images/debug2.png)
 2. **Attach to remote process, choose SSH there and the previously added connection from the list**.
+![attach process](/assets/images/debug3.png)
 
 ## Pros of having Remote Debug ready production
 
