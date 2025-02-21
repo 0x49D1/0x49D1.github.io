@@ -3,7 +3,7 @@ layout: post
 title: "How to Enable Remote Debugging in a Docker Container for Rider and Visual Studio"
 date: 2025-02-21
 author: "Dimitri Pursanov"
-tags: [c#, remote, debugging, dotnet]
+tags: [csharp, remote, debugging, dotnet]
 ---
 
 # How to Enable Remote Debugging in a Docker Container for Rider and Visual Studio

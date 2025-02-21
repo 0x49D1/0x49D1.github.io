@@ -1,5 +1,5 @@
-title: Blog
-description: A blog about tech, code, and life.
+title: 0x49D1's blog
+description: Mostly programming stuff around .NET
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme 
