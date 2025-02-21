@@ -10,9 +10,6 @@ title: "Home"
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <small>{{ post.date | date: "%B %-d, %Y" }}</small>
-      <a href="{{ post.url }}">
-      <p>{{ post.excerpt }}</p>
-      </a>
     </li>
   {% endfor %}
 </ul>
