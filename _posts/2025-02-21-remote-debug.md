@@ -12,6 +12,8 @@ When containerizing your .NET application, you might still need to attach your I
 
 We’ll cover how to set up a secure SSH environment in the container, install the remote debugger (vsdbg), and configure your container with best practices for naming images and containers. The same kind of instructions should work in Kubernetes pods.
 
+![sample-sample](/assets/images/debug1.png)
+
 ## Why Remote Debugging in Docker?
 
 Remote debugging lets you diagnose issues that appear only when your application is running inside a container. Using SSH as a secure tunnel has multiple benefits:
