@@ -1,1 +1,1 @@
-# 0x49D1.github.io
+# 0x49D1.github.io static blog
