@@ -4,6 +4,7 @@ theme: minima
 highlighter: rouge
 #remote_theme: mmistakes/minimal-mistakes
 minima:
+  skin: solarized-light
   show_excerpts: true
 markdown: kramdown
 kramdown:
