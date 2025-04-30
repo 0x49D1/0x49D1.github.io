@@ -1,8 +1,14 @@
 title: 0x49D1's blog
 description: Mostly programming stuff around .NET
 theme: minima
+highlighter: rouge
 #remote_theme: mmistakes/minimal-mistakes
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 plugins:
   #- jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-toc
