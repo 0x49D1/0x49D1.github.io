@@ -1,5 +1,9 @@
 title: 0x49D1's blog
 description: Mostly programming stuff around .NET
+author:
+  name: "Dimitri Pursanov"
+  github: "https://github.com/0x49D1"
+  linkedin: "https://www.linkedin.com/in/dima-pursanov/"
 #theme: minima
 #remote_theme: mmistakes/minimal-mistakes
 remote_theme: jekyll/minima@master
