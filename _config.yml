@@ -1,11 +1,12 @@
 title: 0x49D1's blog
 description: Mostly programming stuff around .NET
-theme: minima
-highlighter: rouge
+#theme: minima
 #remote_theme: mmistakes/minimal-mistakes
+remote_theme: jekyll/minima@master
 minima:
   skin: solarized-light
   show_excerpts: true
+  show_image: true
 markdown: kramdown
 kramdown:
   input: GFM
