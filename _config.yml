@@ -1,6 +1,7 @@
 title: 0x49D1's blog
 description: Mostly programming stuff around .NET
-theme: minima
+#theme: minima
+remote_theme: "minimal-mistakes-jekyll"
 plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
