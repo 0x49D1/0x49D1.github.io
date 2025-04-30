@@ -3,6 +3,8 @@ description: Mostly programming stuff around .NET
 theme: minima
 highlighter: rouge
 #remote_theme: mmistakes/minimal-mistakes
+minima:
+  show_excerpts: true
 markdown: kramdown
 kramdown:
   input: GFM
