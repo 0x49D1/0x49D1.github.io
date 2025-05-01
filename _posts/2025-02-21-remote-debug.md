@@ -132,9 +132,6 @@ Create an `entrypoint.sh` file in the same directory as your Dockerfile:
 echo "Starting SSH server..."
 /usr/sbin/sshd
 
-echo "Starting vsdbg on port 4022..."
-/vsdbg/vsdbg --server --port 4022 --no-https --engineLogging=/tmp/enginelog.log &
-
 # Optional: Wait a few seconds for services to initialize.
 sleep 2
 
